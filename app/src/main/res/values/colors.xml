@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cf0a2c</color>
+    <color name="colorPrimaryDark">#b31731</color>
+    <color name="colorAccent">#CC4865</color>
+
+    <color name="blue">#003893</color>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="gray">#cef2f2f2</color>
+    <color name="dark_gray">#cecacaca</color>
+    <color name="light_gray">#868589</color>
+    <color name="red">#CA1018</color>
+    <color name="green">#68AF7C</color>
+    <color name="red_btn">#CE1126</color>
+    <color name="wine">#CC4865</color>
+
+    <color name="base_red">#cf0a2c</color>
+    <color name="base_white">#ffffff</color>
+    <color name="window">@color/base_white</color>
+    <color name="base_black_light_50">#808080</color>
+    <color name="base_transparent">#00000000</color>
+    <color name="base_black">#000000</color>
+    <color name="base_gray">#333333</color>
+    <color name="red_light">#FD3246</color>
+    <color name="yellow">#F5A623</color>
+    <color name="base_blue">#5da0c7</color>
+    <color name="base_green">#61BB62</color>
+    <color name="base_yellow">#E9AD0C</color>
+
+</resources>
